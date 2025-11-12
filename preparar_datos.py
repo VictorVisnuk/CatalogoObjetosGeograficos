@@ -14,7 +14,7 @@ hojas_a_exportar = [
     'Objetos',
     'Atributos',
     'Link_Objeto_Atributo',
-    'Dominio'
+    'Dominios'
 ]
 
 # --- Ejecución ---
